@@ -1,0 +1,1 @@
+We're currently in the process of developing SmoothCloud, with a strong emphasis on resource efficiency and minimalism, complemented by optional additional features. Our approach is straightforward: if you need something, you can install it. By default, only the essential files are installed, keeping the system lightweight and streamlined.
