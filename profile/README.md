@@ -7,5 +7,3 @@ At SmoothCloud, we believe in minimalism with a twist - optional extras for thos
 🛠️ Customize your cloud experience. Install what you need, when you need it. Our default setup keeps things clean and fast, with only the essentials installed.
 
 Join us and let's redefine cloud computing together! 💬✨
-
-Feel free to adapt this to your GitHub profile, adding any additional details or flair you desire!
