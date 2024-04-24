@@ -1,6 +1,6 @@
 🚀 Welcome to the world of SmoothCloud! 🌟
 
-We're on a journey to create the ultimate cloud experience with a focus on efficiency, elegance and 100% open source. 💻🔓
+We're on a journey to create the ultimate cloud experience with a focus on efficiency, elegance and open source. 💻🔓
 
 At SmoothCloud we believe in minimalism with a twist - optional extras for those who want to take their cloud experience to the next level! 🔥
 
